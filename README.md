@@ -1,4 +1,4 @@
-# Text Detection with EasyOCR
+# Text Detection
 
 ## Overview
 This project demonstrates how to detect text in images using EasyOCR and OpenCV. It reads an image, detects text, and visualizes the detected text by drawing bounding boxes around it.
